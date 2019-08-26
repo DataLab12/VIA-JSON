@@ -6,13 +6,16 @@ VIA is an image tool for visualizing and editiing object detection datasets. It 
 VGG created this tool to be used with their VIA formatted object detection annotations. We modified the project to be compatible with Microsoft's Common Objects in Contects([COCO](http://cocodataset.org/#home)) format.
 
 
-# COCOized Format
-  * 1: Load Images
-  * 2: Import Instances (annotations/lables)
-  * 3: Import Results (inference/predictions)
-  * 4: Filter Annotations
-  * 5: Save as COCO
-  * Must be done in this order to work properly
+## COCOized Format
+ * Load Images
+ 
+ * Import Annotation File
+ 
+ * Edit Annotations
+ 
+ * Save as COCO
+ 
+ 
 
 
 ## License
