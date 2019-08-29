@@ -13,6 +13,7 @@ VGG created this tool to be used with their VIA formatted object detection annot
 </p>
 
 ![load](images/load_img.png)
+___
 
 <p align="center">
   I<b>mport Annotation File</b> 
@@ -20,12 +21,13 @@ VGG created this tool to be used with their VIA formatted object detection annot
 </p>
 
 ![import](images/import_anno.png)
-
+___
 
 <p align="center">
   <b>Edit Annotations</b>
   <br><br>
 </p>
+___
 
 <p align="center">
   <b>Save as COCO</b>
@@ -33,7 +35,7 @@ VGG created this tool to be used with their VIA formatted object detection annot
 </p>
 
 ![save](images/save_coco.png)
- 
+ ___
 
 
 ## License
