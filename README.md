@@ -8,7 +8,7 @@ VGG created this tool to be used with their VIA formatted object detection annot
 
 # COCOized Format
 <p align="center">
-  <b>Load Images</b>
+  <h1>Load Images</h1>
   <br><br>
 </p>
 
