@@ -7,13 +7,13 @@ VGG created this tool to be used with their VIA formatted object detection annot
 
 
 # COCOized Format
-->Load Images<-
+## Load Images {style=text-align:center}
   ![load](images/load_img.png)
-## Import Annotation File
+## Import Annotation File {style=text-align:center}
    ![import](images/import_anno.png)
-## Edit Annotations
+## Edit Annotations {style=text-align:center}
  
-## Save as COCO
+## Save as COCO {style=text-align:center}
    ![save](images/save_coco.png)
  
 
