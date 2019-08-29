@@ -10,11 +10,11 @@ VGG created this tool to be used with their VIA formatted object detection annot
  * Load Images
   ![load](images/load_img.png)
  * Import Annotation File
- 
+   ![import](images/import_anno.png)
  * Edit Annotations
  
  * Save as COCO
- 
+   ![save](images/save_coco.png)
  
 
 
