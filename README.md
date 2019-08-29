@@ -9,8 +9,10 @@ VGG created this tool to be used with their VIA formatted object detection annot
 # COCOized Format
 <p align="center">
   <b>Load Images:</b>
+  <br><br>
 </p>
-  ![load](images/load_img.png)
+
+![load](images/load_img.png)
 ## Import Annotation File 
    ![import](images/import_anno.png)
 ## Edit Annotations 
